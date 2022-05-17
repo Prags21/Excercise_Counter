@@ -8,8 +8,8 @@ The goal of the counter is to alert the user of insufficient range of motion in 
 
 ### Working demos
 
-![Demo1](./demo/demo1.png)
-![Demo2](./demo/demo2.png)
+![Demo1](/demo/demo1.png)
+![Demo2](/demo/demo2.png)
 
 
 ### Install
